@@ -41,9 +41,11 @@ a.navbar-brand {
 #contact {
   padding: 100px 0;
 }
+/* logo */
 #logos {
   padding: 50px 0;
 }
+/* p-text */
 #services > p,
 #portfolio > p,
 #about > p,
@@ -51,6 +53,7 @@ a.navbar-brand {
   color: var(--brand-color);
   font-family: var(--brand-font);
 }
+/* icon-box */
 .icon-box {
   width: 120px;
   height: 120px;
@@ -80,6 +83,7 @@ a.navbar-brand {
   opacity: 0.8;
   cursor: pointer;
 }
+/* modal */
 .modal-btn {
   background-color: var(--brand-color);
 }
@@ -89,6 +93,7 @@ a.navbar-brand {
 .outline {
   border: 7px solid #d5d5d5;
 }
+/* contact */
 
 #contact {
   background-image: url("images/map-image.jpg");
